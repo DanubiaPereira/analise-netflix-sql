@@ -1,3 +1,4 @@
+
 /******************************************************************************
 PERGUNTA 1: Qual a contagem e a proporção de filmes vs. séries no catálogo?
 
